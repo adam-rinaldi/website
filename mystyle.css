@@ -1,0 +1,20 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+a {
+	color: #880033;
+	text-decoration: none;
+}
+body{
+	background-color: navy;
+	background-image: url("heart-25.png");
+	font-family: "Comic Sans MS", Helvetica, sans-serif;
+	font-size: 14px;
+	color: #ffa500;
+}
+h1 {
+	color: navy;
+	font-size: 24px;
+}
